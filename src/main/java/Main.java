@@ -4,6 +4,6 @@ public class Main {
         System.out.println("How are you?");
     }
     
-    public static void(){
+    public static void method(){
     System.out.println("Goodbuy!")}
 }
